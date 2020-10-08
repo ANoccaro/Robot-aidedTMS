@@ -9,3 +9,5 @@ The project is composed of:
   - a ui file that defines the GUI settings
   - a library to control the panda robot
   - a library to receive data through UDP (e.g. the camera/neuronavigator data)
+
+** User Manual: a guide that describes step by step how to setup the devices and run a TMS session using the main application. The guide includes a description of the user interface and the istructions to use it correctly.
