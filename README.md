@@ -11,3 +11,6 @@ The project is composed of:
   - a library to receive data through UDP (e.g. the camera/neuronavigator data)
 
 ** User Manual: a guide that describes step by step how to setup the devices and run a TMS session using the main application. The guide includes a description of the user interface and the istructions to use it correctly.
+
+
+** Robot_TMS_API DOC: documentation of the methods implemented and used in the code.
