@@ -12,5 +12,6 @@ The project is composed of:
 
 ** User Manual: a guide that describes step by step how to setup the devices and run a TMS session using the main application. The guide includes a description of the user interface and the istructions to use it correctly.
 
-
 ** Robot_TMS_API DOC: documentation of the methods implemented and used in the code.
+
+** Robot_TMS_UML_code: block diagram that describes the structure of the code, referring also to the user interface
