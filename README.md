@@ -15,3 +15,5 @@ The project is composed of:
 ** Robot_TMS_API DOC: documentation of the methods implemented and used in the code.
 
 ** Robot_TMS_UML_code: block diagram that describes the structure of the code, referring also to the user interface
+
+** SupplementaryMaterials: supplementary materials of the paper: A. Noccaro et al. “Development and validation of a novel calibration methodology and control approach for robot-aided transcranial magnetic stimulation (TMS),” 2020, under review in IEEE Transaction on Biomedical Engineering.
